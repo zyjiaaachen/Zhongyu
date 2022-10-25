@@ -1,6 +1,0 @@
-//Adjust trial and specimen-specific settings here:
-#include "UserDefinedSettings.any"
-
-//Include Knee Simulator model
-#include "Model/AnyKneeSimulator.any"
-
